@@ -1,6 +1,6 @@
-# GeoConvertUtil
+# geo-convert-util
 
- #### Equivalência das medidas:
+ #### Equivalence of measures:
 
  |Descrição|Abreviação|Equivalência|
  |--|--|--|
@@ -10,11 +10,11 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install geoutil
+Use the package manager [pip](https://pypi.org/project/geo-convert-util/) to install geo-convert-util
 
 ```bash
 
-    pip install geo_convert_util
+    pip install geo-convert-util
 
 ```
 
