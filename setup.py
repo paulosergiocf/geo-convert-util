@@ -7,7 +7,7 @@ with open("requirements.txt", "r") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="geoutil",
+    name="geo_convert_util",
     version="0.0.1",
     author="paulosergiocf",
     author_email="paulosergiocf.dev@gmail.com",

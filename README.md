@@ -1,4 +1,4 @@
-# geoutil
+# GeoConvertUtil
 
  #### Equivalência das medidas:
 
@@ -14,7 +14,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install geoutil
 
 ```bash
 
-    pip install geoutil
+    pip install geo_convert_util
 
 ```
 
@@ -22,7 +22,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install geoutil
 
 ```python
 
-from geoutil import Conversion
+from geo_convert_util import Conversion
 
 result = Conversion.ha_to_alqpta(ha)
 result = Conversion.ha_to_m2(ha)

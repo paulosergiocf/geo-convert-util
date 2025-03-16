@@ -1,7 +1,7 @@
 
 import pytest
 
-from geoutil import Conversion
+from geo_convert_util import Conversion
 
 
 class TestConversions:
